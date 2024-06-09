@@ -3,7 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://vinicius-grijo.github.io/</loc>
-    <lastmod>2023-05-28T09:30:05-07:00</lastmod>
+    <lastmod>2024-06-03T11:47:21-03:00</lastmod>
+  </url><url>
+    <loc>https://vinicius-grijo.github.io/posts/</loc>
+    <lastmod>2024-06-03T11:47:21-03:00</lastmod>
+  </url><url>
+    <loc>https://vinicius-grijo.github.io/tags/analysis/</loc>
+    <lastmod>2023-06-09T09:30:05-07:00</lastmod>
+  </url><url>
+    <loc>https://vinicius-grijo.github.io/categories/analysis/</loc>
+    <lastmod>2023-06-09T09:30:05-07:00</lastmod>
+  </url><url>
+    <loc>https://vinicius-grijo.github.io/categories/</loc>
+    <lastmod>2023-06-09T09:30:05-07:00</lastmod>
+  </url><url>
+    <loc>https://vinicius-grijo.github.io/tags/code/</loc>
+    <lastmod>2023-06-09T09:30:05-07:00</lastmod>
+  </url><url>
+    <loc>https://vinicius-grijo.github.io/tags/fractional-integral/</loc>
+    <lastmod>2023-06-09T09:30:05-07:00</lastmod>
+  </url><url>
+    <loc>https://vinicius-grijo.github.io/tags/</loc>
+    <lastmod>2023-06-09T09:30:05-07:00</lastmod>
+  </url><url>
+    <loc>https://vinicius-grijo.github.io/posts/what_does_a_fractional_integral_look_like/</loc>
+    <lastmod>2023-06-09T09:30:05-07:00</lastmod>
   </url><url>
     <loc>https://vinicius-grijo.github.io/aboutme/</loc>
     <lastmod>2023-05-28T09:30:05-07:00</lastmod>
@@ -11,14 +35,10 @@
     <loc>https://vinicius-grijo.github.io/contact/</loc>
     <lastmod>2023-05-28T09:30:05-07:00</lastmod>
   </url><url>
-    <loc>https://vinicius-grijo.github.io/posts/</loc>
+    <loc>https://vinicius-grijo.github.io/tags/theory/</loc>
     <lastmod>2023-05-28T09:30:05-07:00</lastmod>
   </url><url>
     <loc>https://vinicius-grijo.github.io/posts/what_is_a_fractional_integral/</loc>
     <lastmod>2023-05-28T09:30:05-07:00</lastmod>
-  </url><url>
-    <loc>https://vinicius-grijo.github.io/categories/</loc>
-  </url><url>
-    <loc>https://vinicius-grijo.github.io/tags/</loc>
   </url>
 </urlset>
