@@ -6,8 +6,18 @@
     <description>Recent content on A Math Blog by Vinícius Grijó</description>
     <generator>Hugo -- 0.126.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Jun 2023 09:30:05 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 11:47:21 -0300</lastBuildDate>
     <atom:link href="https://vinicius-grijo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How do RNNs Generalize AR-Models?</title>
+      <link>https://vinicius-grijo.github.io/posts/how_do_rnns_generalize_ar_models/</link>
+      <pubDate>Sun, 16 Jun 2024 11:47:21 -0300</pubDate>
+      <guid>https://vinicius-grijo.github.io/posts/how_do_rnns_generalize_ar_models/</guid>
+      <description>What is an AR Model? An Auto Regressive Model, or simply an AR-Model, is a statistical model for time series.
+The main assumption is that the value in time $t+1$ is a linear combination of the $p$ previous values.
+The $p$ parameter is called the order of the model. Hence an auto regressive model of order $p$ can be concisily referred to as an $AR(p)$ model.
+Given $\{x_t\}_{t=0}^{n}$ data points the main assumption of an AR($p$) model is expresed through the following equation:</description>
+    </item>
     <item>
       <title>What does a Fractional Integral Look Like?</title>
       <link>https://vinicius-grijo.github.io/posts/what_does_a_fractional_integral_look_like/</link>
