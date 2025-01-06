@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Theory on A Math Blog by Vinícius Grijó</title>
-    <link>https://vinicius-grijo.github.io/tags/theory/</link>
-    <description>Recent content in Theory on A Math Blog by Vinícius Grijó</description>
+    <title>Theory on Vinícius Grijó</title>
+    <link>http://localhost:1313/tags/theory/</link>
+    <description>Recent content in Theory on Vinícius Grijó</description>
     <generator>Hugo -- 0.126.1</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 May 2023 09:30:05 -0700</lastBuildDate>
-    <atom:link href="https://vinicius-grijo.github.io/tags/theory/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/theory/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is a Fractional Integral?</title>
-      <link>https://vinicius-grijo.github.io/posts/what_is_a_fractional_integral/</link>
+      <link>http://localhost:1313/posts/what_is_a_fractional_integral/</link>
       <pubDate>Sun, 28 May 2023 09:30:05 -0700</pubDate>
-      <guid>https://vinicius-grijo.github.io/posts/what_is_a_fractional_integral/</guid>
+      <guid>http://localhost:1313/posts/what_is_a_fractional_integral/</guid>
       <description>Hermann Weyl Hermann Klaus Hugo Weyl was a german mathematician born in 1885. His doctorate was awarded at the University of Göttingen under the supervision of David Hilbert. Moreover, Weyl was an important member of the Institute for Advanced Study, in Princeton.
 In the paper Bemerkungen zum Begriff des Differentialquotienten gebrochener Ordnung Weyl introduced the concept of fractional integral. The paper&amp;rsquo;s title can be unofficially and amateurly translated as Notes on the Concept of Fractional Derivative.</description>
     </item>

@@ -2,64 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vinicius-grijo.github.io/</loc>
+    <loc>http://localhost:1313/seminar/</loc>
+    <lastmod>2025-01-05T09:30:05-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-01-05T09:30:05-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/ai/</loc>
     <lastmod>2024-06-16T11:47:21-03:00</lastmod>
   </url><url>
-    <loc>https://vinicius-grijo.github.io/categories/ai/</loc>
+    <loc>http://localhost:1313/tags/ar-model/</loc>
     <lastmod>2024-06-16T11:47:21-03:00</lastmod>
   </url><url>
-    <loc>https://vinicius-grijo.github.io/tags/ar-model/</loc>
+    <loc>http://localhost:1313/tags/auto-regressive-model/</loc>
     <lastmod>2024-06-16T11:47:21-03:00</lastmod>
   </url><url>
-    <loc>https://vinicius-grijo.github.io/tags/auto-regressive-model/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2024-06-16T11:47:21-03:00</lastmod>
   </url><url>
-    <loc>https://vinicius-grijo.github.io/categories/</loc>
+    <loc>http://localhost:1313/posts/how_do_rnns_generalize_ar_models/</loc>
     <lastmod>2024-06-16T11:47:21-03:00</lastmod>
   </url><url>
-    <loc>https://vinicius-grijo.github.io/posts/how_do_rnns_generalize_ar_models/</loc>
+    <loc>http://localhost:1313/categories/machine-learning/</loc>
     <lastmod>2024-06-16T11:47:21-03:00</lastmod>
   </url><url>
-    <loc>https://vinicius-grijo.github.io/categories/machine-learning/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-06-16T11:47:21-03:00</lastmod>
   </url><url>
-    <loc>https://vinicius-grijo.github.io/posts/</loc>
+    <loc>http://localhost:1313/tags/recurrent-neural-network/</loc>
     <lastmod>2024-06-16T11:47:21-03:00</lastmod>
   </url><url>
-    <loc>https://vinicius-grijo.github.io/tags/recurrent-neural-network/</loc>
+    <loc>http://localhost:1313/tags/rnn/</loc>
     <lastmod>2024-06-16T11:47:21-03:00</lastmod>
   </url><url>
-    <loc>https://vinicius-grijo.github.io/tags/rnn/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-06-16T11:47:21-03:00</lastmod>
   </url><url>
-    <loc>https://vinicius-grijo.github.io/tags/</loc>
-    <lastmod>2024-06-16T11:47:21-03:00</lastmod>
-  </url><url>
-    <loc>https://vinicius-grijo.github.io/tags/analysis/</loc>
+    <loc>http://localhost:1313/tags/analysis/</loc>
     <lastmod>2023-06-09T09:30:05-07:00</lastmod>
   </url><url>
-    <loc>https://vinicius-grijo.github.io/categories/analysis/</loc>
+    <loc>http://localhost:1313/categories/analysis/</loc>
     <lastmod>2023-06-09T09:30:05-07:00</lastmod>
   </url><url>
-    <loc>https://vinicius-grijo.github.io/tags/code/</loc>
+    <loc>http://localhost:1313/tags/code/</loc>
     <lastmod>2023-06-09T09:30:05-07:00</lastmod>
   </url><url>
-    <loc>https://vinicius-grijo.github.io/tags/fractional-integral/</loc>
+    <loc>http://localhost:1313/tags/fractional-integral/</loc>
     <lastmod>2023-06-09T09:30:05-07:00</lastmod>
   </url><url>
-    <loc>https://vinicius-grijo.github.io/posts/what_does_a_fractional_integral_look_like/</loc>
+    <loc>http://localhost:1313/posts/what_does_a_fractional_integral_look_like/</loc>
     <lastmod>2023-06-09T09:30:05-07:00</lastmod>
   </url><url>
-    <loc>https://vinicius-grijo.github.io/aboutme/</loc>
+    <loc>http://localhost:1313/aboutme/</loc>
     <lastmod>2023-05-28T09:30:05-07:00</lastmod>
   </url><url>
-    <loc>https://vinicius-grijo.github.io/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <lastmod>2023-05-28T09:30:05-07:00</lastmod>
   </url><url>
-    <loc>https://vinicius-grijo.github.io/tags/theory/</loc>
+    <loc>http://localhost:1313/tags/theory/</loc>
     <lastmod>2023-05-28T09:30:05-07:00</lastmod>
   </url><url>
-    <loc>https://vinicius-grijo.github.io/posts/what_is_a_fractional_integral/</loc>
+    <loc>http://localhost:1313/posts/what_is_a_fractional_integral/</loc>
     <lastmod>2023-05-28T09:30:05-07:00</lastmod>
   </url>
 </urlset>
