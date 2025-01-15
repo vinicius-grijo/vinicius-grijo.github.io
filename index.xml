@@ -2,27 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Vinícius Grijó</title>
-    <link>https://vinicius-grijo.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Vinícius Grijó</description>
     <generator>Hugo -- 0.126.1</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 05 Jan 2025 09:30:05 -0700</lastBuildDate>
-    <atom:link href="https://vinicius-grijo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Brazil-Belgium-Luxembourg Graduate Seminar on Applied Mathematics</title>
-      <link>https://vinicius-grijo.github.io/seminar/</link>
+      <title>Belgium-Brazil-Luxembourg Graduate Seminar on Applied Mathematics</title>
+      <link>http://localhost:1313/seminar/</link>
       <pubDate>Sun, 05 Jan 2025 09:30:05 -0700</pubDate>
-      <guid>https://vinicius-grijo.github.io/seminar/</guid>
-      <description>I am now organizing an international seminar between Brazil, Belgium and Luxembourg. Please contact if you are interested in submiting a talk.
-Next Edition: 29th of January, 2025 Speakers: Althayr Santos:
-Alesia Gerassimenko:
-Past Editions </description>
+      <guid>http://localhost:1313/seminar/</guid>
+      <description>The Belgium-Brazil-Luxembourg Graduate Seminar on Applied Mathematics is a space dedicated to scientific and business collaboration between Belgium, Brazil and Luxembourg.
+Please contact me if you are interested in submiting a talk.
+Next Edition: 29th of January, 2025 From 15:00 UTC to 16:00 UTC. Theme: Finance Speakers: Rodrigo Ribeiro - Fundação Getúlio Vargas (FGV) Title: Belief Influence and Optimal Execution: A Mean Field Game Approach. Abstract: In financial markets, large trading firms often influence the collective beliefs of market participants, creating conflicts of interest that regulatory efforts address through &amp;ldquo;Ethical Walls.</description>
     </item>
     <item>
       <title>How do RNNs Generalize AR-Models?</title>
-      <link>https://vinicius-grijo.github.io/posts/how_do_rnns_generalize_ar_models/</link>
+      <link>http://localhost:1313/posts/how_do_rnns_generalize_ar_models/</link>
       <pubDate>Sun, 16 Jun 2024 11:47:21 -0300</pubDate>
-      <guid>https://vinicius-grijo.github.io/posts/how_do_rnns_generalize_ar_models/</guid>
+      <guid>http://localhost:1313/posts/how_do_rnns_generalize_ar_models/</guid>
       <description>What is an AR Model? An Auto Regressive Model, or simply an AR-Model, is a statistical model for time series.
 The main assumption is that the value in time $t+1$ is a linear combination of the $p$ previous values.
 The $p$ parameter is called the order of the model. Hence an auto regressive model of order $p$ can be concisily referred to as an $AR(p)$ model.
@@ -30,17 +29,17 @@ Given $\{x_t\}_{t=0}^{n}$ data points the main assumption of an AR($p$) model is
     </item>
     <item>
       <title>What does a Fractional Integral Look Like?</title>
-      <link>https://vinicius-grijo.github.io/posts/what_does_a_fractional_integral_look_like/</link>
+      <link>http://localhost:1313/posts/what_does_a_fractional_integral_look_like/</link>
       <pubDate>Fri, 09 Jun 2023 09:30:05 -0700</pubDate>
-      <guid>https://vinicius-grijo.github.io/posts/what_does_a_fractional_integral_look_like/</guid>
+      <guid>http://localhost:1313/posts/what_does_a_fractional_integral_look_like/</guid>
       <description>What is a Fractional Integral? It was shown a previous post how to define and calculate a function&amp;rsquo;s $\alpha$-th fractional integral, where $\alpha$ is a non-negative real number. Using this technique one can also define a function&amp;rsquo;s $\alpha$-th primitive. Now one will be able to see what such a primitive actually looks like through three examples.
 Recall that the $\alpha$-th primitive of $f_0$ is defined as $$ f_{\alpha}(x) := \frac{1}{\Gamma(\alpha)} \int_0^{x} (x - s)^{\alpha-1} f_0(s) ds.</description>
     </item>
     <item>
       <title>About me</title>
-      <link>https://vinicius-grijo.github.io/aboutme/</link>
+      <link>http://localhost:1313/aboutme/</link>
       <pubDate>Sun, 28 May 2023 09:30:05 -0700</pubDate>
-      <guid>https://vinicius-grijo.github.io/aboutme/</guid>
+      <guid>http://localhost:1313/aboutme/</guid>
       <description>General Facts I am able to communicate in Portuguese, Spanish, and English. I have a basic understanding of French, German, Russian and Hebrew. As a teenager, I took violin classes at the Villa-Lobos Music School in Rio de Janeiro. I am also an avid sports practitioner, having learned discipline through many years of martial arts practice. EDUCATION Masters in Mathematics
 Grade: 9.9 out of 10.0
 2020 - 2022
@@ -48,16 +47,16 @@ Bachelor Degree in Statistics - Cum Laude (Honors)</description>
     </item>
     <item>
       <title>How to contact me?</title>
-      <link>https://vinicius-grijo.github.io/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Sun, 28 May 2023 09:30:05 -0700</pubDate>
-      <guid>https://vinicius-grijo.github.io/contact/</guid>
-      <description>Feel free to send me an email: vrl dot grijo at gmail dot com</description>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>Feel free to send me an email: vinicius dot grijo at vub dot be</description>
     </item>
     <item>
       <title>What is a Fractional Integral?</title>
-      <link>https://vinicius-grijo.github.io/posts/what_is_a_fractional_integral/</link>
+      <link>http://localhost:1313/posts/what_is_a_fractional_integral/</link>
       <pubDate>Sun, 28 May 2023 09:30:05 -0700</pubDate>
-      <guid>https://vinicius-grijo.github.io/posts/what_is_a_fractional_integral/</guid>
+      <guid>http://localhost:1313/posts/what_is_a_fractional_integral/</guid>
       <description>Hermann Weyl Hermann Klaus Hugo Weyl was a german mathematician born in 1885. His doctorate was awarded at the University of Göttingen under the supervision of David Hilbert. Moreover, Weyl was an important member of the Institute for Advanced Study, in Princeton.
 In the paper Bemerkungen zum Begriff des Differentialquotienten gebrochener Ordnung Weyl introduced the concept of fractional integral. The paper&amp;rsquo;s title can be unofficially and amateurly translated as Notes on the Concept of Fractional Derivative.</description>
     </item>

@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en" dir="auto">
 
-<head><meta charset="utf-8">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="robots" content="index, follow">
+<meta name="robots" content="noindex, nofollow">
 <title>How do RNNs Generalize AR-Models? | Vinícius Grijó</title>
 <meta name="keywords" content="Auto Regressive Model, AR Model, RNN, Recurrent Neural Network">
 <meta name="description" content="What is an AR Model? An Auto Regressive Model, or simply an AR-Model, is a statistical model for time series.
@@ -12,16 +12,16 @@ The main assumption is that the value in time $t&#43;1$ is a linear combination 
 The $p$ parameter is called the order of the model. Hence an auto regressive model of order $p$ can be concisily referred to as an $AR(p)$ model.
 Given $\{x_t\}_{t=0}^{n}$ data points the main assumption of an AR($p$) model is expresed through the following equation:">
 <meta name="author" content="">
-<link rel="canonical" href="https://vinicius-grijo.github.io/posts/how_do_rnns_generalize_ar_models/">
+<link rel="canonical" href="http://localhost:1313/posts/how_do_rnns_generalize_ar_models/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.9de45e225101e4f99701d2b68fc6b8a1ef6027928be6391fa15bf7f56326c909.css" integrity="" rel="preload stylesheet" as="style">
-<link rel="icon" href="https://vinicius-grijo.github.io/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="https://vinicius-grijo.github.io/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="https://vinicius-grijo.github.io/favicon-32x32.png">
-<link rel="apple-touch-icon" href="https://vinicius-grijo.github.io/apple-touch-icon.png">
-<link rel="mask-icon" href="https://vinicius-grijo.github.io/safari-pinned-tab.svg">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" hreflang="en" href="https://vinicius-grijo.github.io/posts/how_do_rnns_generalize_ar_models/">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/posts/how_do_rnns_generalize_ar_models/">
 <noscript>
     <style>
         #theme-toggle,
@@ -59,75 +59,6 @@ Given $\{x_t\}_{t=0}^{n}$ data points the main assumption of an AR($p$) model is
 
     </style>
 </noscript>
-  
-
-<meta property="og:title" content="How do RNNs Generalize AR-Models?" />
-<meta property="og:description" content="What is an AR Model? An Auto Regressive Model, or simply an AR-Model, is a statistical model for time series.
-The main assumption is that the value in time $t&#43;1$ is a linear combination of the $p$ previous values.
-The $p$ parameter is called the order of the model. Hence an auto regressive model of order $p$ can be concisily referred to as an $AR(p)$ model.
-Given $\{x_t\}_{t=0}^{n}$ data points the main assumption of an AR($p$) model is expresed through the following equation:" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://vinicius-grijo.github.io/posts/how_do_rnns_generalize_ar_models/" /><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2024-06-16T11:47:21-03:00" />
-<meta property="article:modified_time" content="2024-06-16T11:47:21-03:00" />
-
-<meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="How do RNNs Generalize AR-Models?"/>
-<meta name="twitter:description" content="What is an AR Model? An Auto Regressive Model, or simply an AR-Model, is a statistical model for time series.
-The main assumption is that the value in time $t&#43;1$ is a linear combination of the $p$ previous values.
-The $p$ parameter is called the order of the model. Hence an auto regressive model of order $p$ can be concisily referred to as an $AR(p)$ model.
-Given $\{x_t\}_{t=0}^{n}$ data points the main assumption of an AR($p$) model is expresed through the following equation:"/>
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position":  1 ,
-      "name": "Posts",
-      "item": "https://vinicius-grijo.github.io/posts/"
-    }, 
-    {
-      "@type": "ListItem",
-      "position":  2 ,
-      "name": "How do RNNs Generalize AR-Models?",
-      "item": "https://vinicius-grijo.github.io/posts/how_do_rnns_generalize_ar_models/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "How do RNNs Generalize AR-Models?",
-  "name": "How do RNNs Generalize AR-Models?",
-  "description": "What is an AR Model? An Auto Regressive Model, or simply an AR-Model, is a statistical model for time series.\nThe main assumption is that the value in time $t+1$ is a linear combination of the $p$ previous values.\nThe $p$ parameter is called the order of the model. Hence an auto regressive model of order $p$ can be concisily referred to as an $AR(p)$ model.\nGiven $\\{x_t\\}_{t=0}^{n}$ data points the main assumption of an AR($p$) model is expresed through the following equation:",
-  "keywords": [
-    "Auto Regressive Model", "AR Model", "RNN", "Recurrent Neural Network"
-  ],
-  "articleBody": "What is an AR Model? An Auto Regressive Model, or simply an AR-Model, is a statistical model for time series.\nThe main assumption is that the value in time $t+1$ is a linear combination of the $p$ previous values.\nThe $p$ parameter is called the order of the model. Hence an auto regressive model of order $p$ can be concisily referred to as an $AR(p)$ model.\nGiven $\\{x_t\\}_{t=0}^{n}$ data points the main assumption of an AR($p$) model is expresed through the following equation:\n$$ x_{t+1} = \\alpha_0x_t + \\cdots \\alpha_{p-1}x_{t-p-1}. $$\nIn order to callibrate this model one needs to find the coefficients $alpha_i$, $i=0,\\cdots,p-1$ that minimize a given loss function.\nHow Can It Be Written Using Matrices? This section is aimed at expressing the same ideas using matrices and vectors. $$ X_t := \\big( x_{t+p-1}, x_{t+p-2}, \\cdots, x_{t+1}, x_t \\big)^T, $$\n$$ W_{xy} := (\\alpha_0, \\alpha_1, \\cdots, \\alpha_{p-2}, \\alpha_{p-1}), $$\n$$ Y_t := ( x_{t+p} ). $$ Hence, the same $AR(p)$ model is given by $$ Y_t = W_{xy}X_t. $$\nWhat if a Hidden Unit is Added? Having in a mind a classic neural network architecture, one could add a hidden unit.\nNow instead of having a weight that takes $X_t$ straight up to $Y_t$, one decomposes it into $W_{xh}$ and $W_{hy}$ in such a way that $W_{xy} = W_{hy} W_{xh} $.\nThe equation then becomes $$ Y_t = W_{xy}X_t = W_{hy} W_{xh} X_t = W_{hy} h_t. $$\nNow one can add recurrence between the the hidden units. That is, one can add a term $W_{hh}$ that integrates the value of $h_{t-1}$ into $h_t$: $$ Y_t = W_{hy} h_t = W_{hy} \\big( W_{xh} X_t + W_{hh} h_{t-1} \\big). $$\nWhat if Activation Functions and Biases are Added? Finally, one can add activation functions and biases. $$ \\begin{split} Y_t \u0026= \\sigma_y \\big( W_{hy} h_t + b_y \\big) \\\\\\ \u0026= \\sigma_y \\Bigg( W_{hy} \\sigma_h \\Big( W_{xh} X_t + W_{hh} h_{t-1} + b_h \\Big) + b_y \\Bigg). \\end{split} $$\nNow note that $$ \\begin{split} Y_t \u0026= \\sigma_y\\big( W_{hy} h_t + b_y \\big), \\\\\\ h_t \u0026= \\sigma_h \\Big( W_{xh} X_t + W_{hh} h_{t-1} + b_h \\Big), \\end{split} $$ is precisily the architecture of an Elman Network, introduced by Jeffrey L. Elman in $1990$.\n",
-  "wordCount" : "370",
-  "inLanguage": "en",
-  "datePublished": "2024-06-16T11:47:21-03:00",
-  "dateModified": "2024-06-16T11:47:21-03:00",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://vinicius-grijo.github.io/posts/how_do_rnns_generalize_ar_models/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Vinícius Grijó",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://vinicius-grijo.github.io/favicon.ico"
-    }
-  }
-}
-</script>
 
     
     
@@ -159,7 +90,7 @@ Given $\{x_t\}_{t=0}^{n}$ data points the main assumption of an AR($p$) model is
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="https://vinicius-grijo.github.io/" accesskey="h" title="Vinícius Grijó (Alt + H)">Vinícius Grijó</a>
+            <a href="http://localhost:1313/" accesskey="h" title="Vinícius Grijó (Alt + H)">Vinícius Grijó</a>
             <div class="logo-switches">
                 <button id="theme-toggle" accesskey="t" title="(Alt + T)">
                     <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
@@ -185,37 +116,37 @@ Given $\{x_t\}_{t=0}^{n}$ data points the main assumption of an AR($p$) model is
         </div>
         <ul id="menu">
             <li>
-                <a href="https://vinicius-grijo.github.io/posts/" title="Posts">
+                <a href="http://localhost:1313/posts/" title="Posts">
                     <span>Posts</span>
                 </a>
             </li>
             <li>
-                <a href="https://vinicius-grijo.github.io/categories/" title="Categories">
+                <a href="http://localhost:1313/categories/" title="Categories">
                     <span>Categories</span>
                 </a>
             </li>
             <li>
-                <a href="https://vinicius-grijo.github.io/tags/" title="Tags">
+                <a href="http://localhost:1313/tags/" title="Tags">
                     <span>Tags</span>
                 </a>
             </li>
             <li>
-                <a href="https://vinicius-grijo.github.io/archives/" title="Archives">
+                <a href="http://localhost:1313/archives/" title="Archives">
                     <span>Archives</span>
                 </a>
             </li>
             <li>
-                <a href="https://vinicius-grijo.github.io/aboutme/" title="About Me">
+                <a href="http://localhost:1313/aboutme/" title="About Me">
                     <span>About Me</span>
                 </a>
             </li>
             <li>
-                <a href="https://vinicius-grijo.github.io/contact/" title="Contact">
+                <a href="http://localhost:1313/contact/" title="Contact">
                     <span>Contact</span>
                 </a>
             </li>
             <li>
-                <a href="https://vinicius-grijo.github.io/seminar/" title="Seminar">
+                <a href="http://localhost:1313/seminar/" title="Seminar">
                     <span>Seminar</span>
                 </a>
             </li>
@@ -293,17 +224,17 @@ is precisily the architecture of an <strong>Elman Network</strong>, introduced b
 
   <footer class="post-footer">
     <ul class="post-tags">
-      <li><a href="https://vinicius-grijo.github.io/tags/auto-regressive-model/">Auto Regressive Model</a></li>
-      <li><a href="https://vinicius-grijo.github.io/tags/ar-model/">AR Model</a></li>
-      <li><a href="https://vinicius-grijo.github.io/tags/rnn/">RNN</a></li>
-      <li><a href="https://vinicius-grijo.github.io/tags/recurrent-neural-network/">Recurrent Neural Network</a></li>
+      <li><a href="http://localhost:1313/tags/auto-regressive-model/">Auto Regressive Model</a></li>
+      <li><a href="http://localhost:1313/tags/ar-model/">AR Model</a></li>
+      <li><a href="http://localhost:1313/tags/rnn/">RNN</a></li>
+      <li><a href="http://localhost:1313/tags/recurrent-neural-network/">Recurrent Neural Network</a></li>
     </ul>
   </footer>
 </article>
     </main>
     
 <footer class="footer">
-        <span>&copy; 2025 <a href="https://vinicius-grijo.github.io/">Vinícius Grijó</a></span> · 
+        <span>&copy; 2025 <a href="http://localhost:1313/">Vinícius Grijó</a></span> · 
 
     <span>
         Powered by
