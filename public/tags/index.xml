@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Vinícius Grijó</title>
+    <link>https://vinicius-grijo.github.io/tags/</link>
+    <description>Recent content in Tags on Vinícius Grijó</description>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Jun 2024 11:47:21 -0300</lastBuildDate>
+    <atom:link href="https://vinicius-grijo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AR Model</title>
+      <link>https://vinicius-grijo.github.io/tags/ar-model/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vinicius-grijo.github.io/tags/ar-model/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Auto Regressive Model</title>
+      <link>https://vinicius-grijo.github.io/tags/auto-regressive-model/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vinicius-grijo.github.io/tags/auto-regressive-model/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recurrent Neural Network</title>
+      <link>https://vinicius-grijo.github.io/tags/recurrent-neural-network/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vinicius-grijo.github.io/tags/recurrent-neural-network/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RNN</title>
+      <link>https://vinicius-grijo.github.io/tags/rnn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vinicius-grijo.github.io/tags/rnn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Analysis</title>
+      <link>https://vinicius-grijo.github.io/tags/analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vinicius-grijo.github.io/tags/analysis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Code</title>
+      <link>https://vinicius-grijo.github.io/tags/code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vinicius-grijo.github.io/tags/code/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fractional Integral</title>
+      <link>https://vinicius-grijo.github.io/tags/fractional-integral/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vinicius-grijo.github.io/tags/fractional-integral/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Theory</title>
+      <link>https://vinicius-grijo.github.io/tags/theory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vinicius-grijo.github.io/tags/theory/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
