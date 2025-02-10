@@ -3,6 +3,9 @@ languageCode: en-us
 title: Vinícius Grijó
 theme: PaperMod
 
+# changing directory from public to docs
+publishDir: "docs"
+
 params:
   homeInfoParams:
     Title: "What is this about?"

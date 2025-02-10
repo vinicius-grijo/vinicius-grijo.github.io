@@ -4,7 +4,7 @@ date = 2025-01-05T09:30:05-07:00
 draft = false
 +++
 
-The Belgium-Brazil-Luxembourg Graduate Seminar on Applied Mathematics is a space dedicated to scientific and business collaboration between Belgium, Brazil and Luxembourg.
+The Belgium-Brazil-Luxembourg Graduate Seminar on Applied Mathematics is a space dedicated to scientific and business collaboration between Belgium, Brazil and Luxembourg. This initiative is sponsored by [Brascam]( https://www.linkedin.com/company/brascam-chamber-of-commerce/posts/?feedView=all ).
 
 Please contact me if you are interested in submiting a talk.
 
@@ -33,9 +33,9 @@ Subscribe to our mailing list by clicking [here]( https://forms.office.com/e/t2v
 ### Rodrigo Ribeiro - Fundação Getúlio Vargas (FGV)
 - Title: Belief Influence and Optimal Execution: A Mean Field Game Approach.
 - Abstract: In financial markets, large trading firms often influence the collective beliefs of market participants, creating conflicts of interest that regulatory efforts address through "Ethical Walls." We propose a mean field game model to analyze how a major player optimally trades while incurring costs to influence the beliefs of minor agents. The framework leads to a Nash equilibrium characterized by coupled Hamilton-Jacobi-Bellman equations, which simplify into a system of ordinary differential equations. Numerical simulations illustrate the equilibrium dynamics, offering insights into regulatory and strategic considerations for large market participants.
-- Slides
+- [Slides]( https://vub-my.sharepoint.com/:b:/r/personal/vinicius_grijo_vub_be/Documents/Slides/29_01_2025/rodrigo.pdf?csf=1&web=1&e=17ugAh )
 
 ### Alesia Gerassimenko - Vrije Universiteit Brussel (VUB)
 - Title: Validating spatial dynamics for energy efficiency in the Belgian residential rent market.
 - Abstract: A dataset of 22,834 listed Belgian rental properties in Belgium is analysed to examine the relationship between energy efficiency and rental prices, using the four most commonly applied econometric models: Ordinary Least Squares (OLS) model, Generalized Additive Model (GAM), Spatial Durbin Model (SDM) and Geographically Weighted Regression (GWR) model are analysed. While this study underscores the importance of selecting the appropriate research strategy in general, it specifically highlights the importance of incorporating geographical information into the methodology of energy efficiency studies.
-- Slides
+- [Slides]( https://vub-my.sharepoint.com/:p:/r/personal/vinicius_grijo_vub_be/Documents/Slides/29_01_2025/alesia.pptx?d=wa19ae7e3ce5c4d7793150d788904d090&csf=1&web=1&e=KzM3nO )
