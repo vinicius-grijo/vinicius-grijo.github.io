@@ -4,7 +4,7 @@
     <title>Vinícius Grijó</title>
     <link>https://vinicius-grijo.github.io/</link>
     <description>Recent content on Vinícius Grijó</description>
-    <generator>Hugo -- 0.126.1</generator>
+    <generator>Hugo -- 0.143.1</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 05 Jan 2025 09:30:05 -0700</lastBuildDate>
     <atom:link href="https://vinicius-grijo.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -13,54 +13,105 @@
       <link>https://vinicius-grijo.github.io/seminar/</link>
       <pubDate>Sun, 05 Jan 2025 09:30:05 -0700</pubDate>
       <guid>https://vinicius-grijo.github.io/seminar/</guid>
-      <description>The Belgium-Brazil-Luxembourg Graduate Seminar on Applied Mathematics is a space dedicated to scientific and business collaboration between Belgium, Brazil and Luxembourg.
-Please contact me if you are interested in submiting a talk.
-Join the meeting.
-Subscribe to our mailing list by clicking here.
-Next Edition: 26th of February, 2025 Theme: Artificial Intelligence - Large Language Models (LLMs) Brussels Time: from 16:00 to 17:00 Brasilia Time: from 12:00 to 13:00 Networking: anyone interested in networking is welcomed to arrive 10 minutes before the start and stay after the end of the talks in the meeting room.</description>
+      <description>&lt;p&gt;The Belgium-Brazil-Luxembourg Graduate Seminar on Applied Mathematics is a space dedicated to scientific and business collaboration between Belgium, Brazil and Luxembourg. This initiative is sponsored by &lt;a href=&#34;https://www.linkedin.com/company/brascam-chamber-of-commerce/posts/?feedView=all&#34;&gt;Brascam&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Please contact me if you are interested in submiting a talk.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmZkOWY3ZWItZGQyZS00OWNkLTg2MzktNWYwZDg4ZmIxZmNi%40thread.v2/0?context=%7b%22Tid%22%3a%22695b7ca8-2da8-4545-a2da-42d03784e585%22%2c%22Oid%22%3a%228b198694-fdd0-4a8b-ba77-490f6d5a5469%22%7d&#34;&gt;Join the meeting&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Subscribe to our mailing list by clicking &lt;a href=&#34;https://forms.office.com/e/t2vZnDK8Ti&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;next-edition-26th-of-february-2025&#34;&gt;Next Edition: 26th of February, 2025&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Theme: Artificial Intelligence - Large Language Models (LLMs)&lt;/li&gt;
+&lt;li&gt;Brussels Time: from 16:00 to 17:00&lt;/li&gt;
+&lt;li&gt;Brasilia Time: from 12:00 to 13:00&lt;/li&gt;
+&lt;li&gt;Networking: anyone interested in networking is welcomed to arrive 10 minutes before the start and stay after the end of the talks in the meeting room.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;althayr-santos---universidade-federal-do-rio-de-janeiro-ufrj&#34;&gt;Althayr Santos - Universidade Federal do Rio de Janeiro (UFRJ)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Title: Updating Portuguese BERT: A Modern take on Training Encoder-type Large Language Models&lt;/li&gt;
+&lt;li&gt;Abstract: This talk presents a comprehensive approach to building and openly distributing a state-of-the-art BERT model for Portuguese using publicly available data. I will detail the proposed updates to the original architecture and discuss the practical challenges of distributed training on a Nvidia DGX cluster. We expect the resulting model to improve upon the original BERT across virtually all tasks while maintaining its compact size. The final model, along with all supporting data and code, will be open-sourced with a permissive license. It can serve as a foundation for various NLP tasks such as text and token classification (sentiment analysis, PII recognition) and semantic embedding generation (for search and recommendation systems, RAG-based LLM applications, and AI agents).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;marthe-ballon---vrije-universiteit-brussel-vub&#34;&gt;Marthe Ballon - Vrije Universiteit Brussel (VUB)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Title: The Geometry of Thought: Where LLMs Go to Work Their Math-gic&lt;/li&gt;
+&lt;li&gt;Abstract: The text generation process of Large Language Models (LLMs) relies partly on converting tokens into high-dimensional vectors - called embeddings - and back. These embeddings constitute an ultra-high dimensional vector space. Recently, the structure of the embedding space has become a subject of study in the literature on interpretability and control of LLMs. For example, recent research shows that the token space of the LLaMa-2 model contains linear representations of high-level concepts such as man-&amp;gt;woman, which allows one to exploit linear algebra operations to measure and manipulate the LLM’s behaviour (Park et al. 2024). Our approach starts from the idea that we can discover - and tune - how LLMs learn to reason about math by analysing a.o. the geometry of the embedding space. In this presentation, we will analyse the embedding space of an Olympiad-level math dataset, generated by the latest embedding model of OpenAI. Although this talk is more introductory, it will illustrate how much information can be extracted from the embedding space and how it can give us new insights into the reasoning abilities of LLMs in mathematics.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;past-editions&#34;&gt;Past Editions&lt;/h1&gt;
+&lt;h2 id=&#34;29th-of-january-2025&#34;&gt;29th of January, 2025&lt;/h2&gt;
+&lt;h3 id=&#34;rodrigo-ribeiro---fundação-getúlio-vargas-fgv&#34;&gt;Rodrigo Ribeiro - Fundação Getúlio Vargas (FGV)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Title: Belief Influence and Optimal Execution: A Mean Field Game Approach.&lt;/li&gt;
+&lt;li&gt;Abstract: In financial markets, large trading firms often influence the collective beliefs of market participants, creating conflicts of interest that regulatory efforts address through &amp;ldquo;Ethical Walls.&amp;rdquo; We propose a mean field game model to analyze how a major player optimally trades while incurring costs to influence the beliefs of minor agents. The framework leads to a Nash equilibrium characterized by coupled Hamilton-Jacobi-Bellman equations, which simplify into a system of ordinary differential equations. Numerical simulations illustrate the equilibrium dynamics, offering insights into regulatory and strategic considerations for large market participants.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vub-my.sharepoint.com/:b:/r/personal/vinicius_grijo_vub_be/Documents/Slides/29_01_2025/rodrigo.pdf?csf=1&amp;amp;web=1&amp;amp;e=17ugAh&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;alesia-gerassimenko---vrije-universiteit-brussel-vub&#34;&gt;Alesia Gerassimenko - Vrije Universiteit Brussel (VUB)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Title: Validating spatial dynamics for energy efficiency in the Belgian residential rent market.&lt;/li&gt;
+&lt;li&gt;Abstract: A dataset of 22,834 listed Belgian rental properties in Belgium is analysed to examine the relationship between energy efficiency and rental prices, using the four most commonly applied econometric models: Ordinary Least Squares (OLS) model, Generalized Additive Model (GAM), Spatial Durbin Model (SDM) and Geographically Weighted Regression (GWR) model are analysed. While this study underscores the importance of selecting the appropriate research strategy in general, it specifically highlights the importance of incorporating geographical information into the methodology of energy efficiency studies.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vub-my.sharepoint.com/:p:/r/personal/vinicius_grijo_vub_be/Documents/Slides/29_01_2025/alesia.pptx?d=wa19ae7e3ce5c4d7793150d788904d090&amp;amp;csf=1&amp;amp;web=1&amp;amp;e=KzM3nO&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>How do RNNs Generalize AR-Models?</title>
       <link>https://vinicius-grijo.github.io/posts/how_do_rnns_generalize_ar_models/</link>
       <pubDate>Sun, 16 Jun 2024 11:47:21 -0300</pubDate>
       <guid>https://vinicius-grijo.github.io/posts/how_do_rnns_generalize_ar_models/</guid>
-      <description>What is an AR Model? An Auto Regressive Model, or simply an AR-Model, is a statistical model for time series.
-The main assumption is that the value in time $t+1$ is a linear combination of the $p$ previous values.
-The $p$ parameter is called the order of the model. Hence an auto regressive model of order $p$ can be concisily referred to as an $AR(p)$ model.
-Given $\{x_t\}_{t=0}^{n}$ data points the main assumption of an AR($p$) model is expresed through the following equation:</description>
+      <description>&lt;h1 id=&#34;what-is-an-ar-model&#34;&gt;What is an AR Model?&lt;/h1&gt;
+&lt;p&gt;An Auto Regressive Model, or simply an AR-Model, is a statistical model for time series.&lt;/p&gt;
+&lt;p&gt;The main assumption is that the value in time $t+1$ is a linear combination of the $p$ previous values.&lt;/p&gt;
+&lt;p&gt;The $p$ parameter is called &lt;strong&gt;the order&lt;/strong&gt; of the model. Hence an &lt;strong&gt;auto regressive model of order $p$&lt;/strong&gt; can be concisily referred to as an $AR(p)$ model.&lt;/p&gt;
+&lt;p&gt;Given $\{x_t\}_{t=0}^{n}$ data points the main assumption of an AR($p$) model is expresed through the following equation:&lt;/p&gt;</description>
     </item>
     <item>
       <title>What does a Fractional Integral Look Like?</title>
       <link>https://vinicius-grijo.github.io/posts/what_does_a_fractional_integral_look_like/</link>
       <pubDate>Fri, 09 Jun 2023 09:30:05 -0700</pubDate>
       <guid>https://vinicius-grijo.github.io/posts/what_does_a_fractional_integral_look_like/</guid>
-      <description>What is a Fractional Integral? It was shown a previous post how to define and calculate a function&amp;rsquo;s $\alpha$-th fractional integral, where $\alpha$ is a non-negative real number. Using this technique one can also define a function&amp;rsquo;s $\alpha$-th primitive. Now one will be able to see what such a primitive actually looks like through three examples.
-Recall that the $\alpha$-th primitive of $f_0$ is defined as $$ f_{\alpha}(x) := \frac{1}{\Gamma(\alpha)} \int_0^{x} (x - s)^{\alpha-1} f_0(s) ds.</description>
+      <description>&lt;h1 id=&#34;what-is-a-fractional-integral&#34;&gt;What is a Fractional Integral?&lt;/h1&gt;
+&lt;p&gt;It was shown a previous &lt;a href=&#34;https://vinicius-grijo.github.io/posts/what_is_a_fractional_integral/&#34;&gt;post&lt;/a&gt;   how to define and calculate a function&amp;rsquo;s $\alpha$-th fractional integral, where $\alpha$ is a non-negative real number. Using this technique one can also define a function&amp;rsquo;s $\alpha$-th primitive. Now one will be able to see what such a primitive actually looks like through three examples.&lt;/p&gt;
+&lt;p&gt;Recall that the $\alpha$-th primitive of $f_0$ is defined as
+$$
+f_{\alpha}(x) := \frac{1}{\Gamma(\alpha)} \int_0^{x} (x - s)^{\alpha-1} f_0(s) ds.
+$$&lt;/p&gt;</description>
     </item>
     <item>
       <title>About me</title>
       <link>https://vinicius-grijo.github.io/aboutme/</link>
       <pubDate>Sun, 28 May 2023 09:30:05 -0700</pubDate>
       <guid>https://vinicius-grijo.github.io/aboutme/</guid>
-      <description>General Facts I am able to communicate in Portuguese, Spanish, and English. I have a basic understanding of French, German, Russian and Hebrew. As a teenager, I took violin classes at the Villa-Lobos Music School in Rio de Janeiro. I am also an avid sports practitioner, having learned discipline through many years of martial arts practice. EDUCATION Masters in Mathematics
-Grade: 9.9 out of 10.0
-2020 - 2022
-Bachelor Degree in Statistics - Cum Laude (Honors)</description>
+      <description>&lt;h2 id=&#34;general-facts&#34;&gt;General Facts&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;I am able to communicate in &lt;strong&gt;Portuguese&lt;/strong&gt;, &lt;strong&gt;Spanish&lt;/strong&gt;, and &lt;strong&gt;English&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;I have a basic understanding of &lt;strong&gt;French&lt;/strong&gt;, &lt;strong&gt;German&lt;/strong&gt;, &lt;strong&gt;Russian&lt;/strong&gt; and &lt;strong&gt;Hebrew&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;As a teenager, I took violin classes at the &lt;strong&gt;Villa-Lobos Music School&lt;/strong&gt; in Rio de Janeiro.&lt;/li&gt;
+&lt;li&gt;I am also an avid sports practitioner, having learned discipline through many years of &lt;strong&gt;martial arts&lt;/strong&gt; practice.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;education&#34;&gt;EDUCATION&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Masters in Mathematics&lt;/strong&gt;&lt;br&gt;
+Grade: 9.9 out of 10.0&lt;br&gt;
+2020 - 2022&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Bachelor Degree in Statistics&lt;/strong&gt; - &lt;em&gt;Cum Laude (Honors)&lt;/em&gt;&lt;br&gt;
+2016 - 2019&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to contact me?</title>
       <link>https://vinicius-grijo.github.io/contact/</link>
       <pubDate>Sun, 28 May 2023 09:30:05 -0700</pubDate>
       <guid>https://vinicius-grijo.github.io/contact/</guid>
-      <description>Feel free to send me an email: vinicius dot grijo at vub dot be</description>
+      <description>&lt;p&gt;Feel free to send me an email: vinicius dot grijo at vub dot be&lt;/p&gt;</description>
     </item>
     <item>
       <title>What is a Fractional Integral?</title>
       <link>https://vinicius-grijo.github.io/posts/what_is_a_fractional_integral/</link>
       <pubDate>Sun, 28 May 2023 09:30:05 -0700</pubDate>
       <guid>https://vinicius-grijo.github.io/posts/what_is_a_fractional_integral/</guid>
-      <description>Hermann Weyl Hermann Klaus Hugo Weyl was a german mathematician born in 1885. His doctorate was awarded at the University of Göttingen under the supervision of David Hilbert. Moreover, Weyl was an important member of the Institute for Advanced Study, in Princeton.
-In the paper Bemerkungen zum Begriff des Differentialquotienten gebrochener Ordnung Weyl introduced the concept of fractional integral. The paper&amp;rsquo;s title can be unofficially and amateurly translated as Notes on the Concept of Fractional Derivative.</description>
+      <description>&lt;h1 id=&#34;hermann-weyl&#34;&gt;Hermann Weyl&lt;/h1&gt;
+&lt;p&gt;Hermann Klaus Hugo Weyl was a german mathematician born in 1885. His doctorate was awarded at the University of Göttingen under the supervision of David Hilbert. Moreover, Weyl was an important member of the Institute for Advanced Study, in Princeton.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://vinicius-grijo.github.io/images/what_is_a_fractional_integral/weyl.jpg&#34; alt=&#34;Hermann Weyl&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;In the paper &lt;em&gt;Bemerkungen zum Begriff des Differentialquotienten gebrochener Ordnung&lt;/em&gt; Weyl introduced the concept of fractional integral. The paper&amp;rsquo;s title can be unofficially and amateurly translated as &lt;em&gt;Notes on the Concept of Fractional Derivative&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

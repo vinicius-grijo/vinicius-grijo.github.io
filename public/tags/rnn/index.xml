@@ -4,7 +4,7 @@
     <title>RNN on Vinícius Grijó</title>
     <link>https://vinicius-grijo.github.io/tags/rnn/</link>
     <description>Recent content in RNN on Vinícius Grijó</description>
-    <generator>Hugo -- 0.126.1</generator>
+    <generator>Hugo -- 0.143.1</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 16 Jun 2024 11:47:21 -0300</lastBuildDate>
     <atom:link href="https://vinicius-grijo.github.io/tags/rnn/index.xml" rel="self" type="application/rss+xml" />
@@ -13,10 +13,11 @@
       <link>https://vinicius-grijo.github.io/posts/how_do_rnns_generalize_ar_models/</link>
       <pubDate>Sun, 16 Jun 2024 11:47:21 -0300</pubDate>
       <guid>https://vinicius-grijo.github.io/posts/how_do_rnns_generalize_ar_models/</guid>
-      <description>What is an AR Model? An Auto Regressive Model, or simply an AR-Model, is a statistical model for time series.
-The main assumption is that the value in time $t+1$ is a linear combination of the $p$ previous values.
-The $p$ parameter is called the order of the model. Hence an auto regressive model of order $p$ can be concisily referred to as an $AR(p)$ model.
-Given $\{x_t\}_{t=0}^{n}$ data points the main assumption of an AR($p$) model is expresed through the following equation:</description>
+      <description>&lt;h1 id=&#34;what-is-an-ar-model&#34;&gt;What is an AR Model?&lt;/h1&gt;
+&lt;p&gt;An Auto Regressive Model, or simply an AR-Model, is a statistical model for time series.&lt;/p&gt;
+&lt;p&gt;The main assumption is that the value in time $t+1$ is a linear combination of the $p$ previous values.&lt;/p&gt;
+&lt;p&gt;The $p$ parameter is called &lt;strong&gt;the order&lt;/strong&gt; of the model. Hence an &lt;strong&gt;auto regressive model of order $p$&lt;/strong&gt; can be concisily referred to as an $AR(p)$ model.&lt;/p&gt;
+&lt;p&gt;Given $\{x_t\}_{t=0}^{n}$ data points the main assumption of an AR($p$) model is expresed through the following equation:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

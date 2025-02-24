@@ -3,10 +3,11 @@ languageCode: en-us
 title: Vinícius Grijó
 theme: PaperMod
 
-# changing directory from public to docs
-publishDir: "docs"
+# # changing directory from public to docs
+# publishDir: "docs"
 
 params:
+  social: true
   homeInfoParams:
     Title: "What is this about?"
     Content: This is my personal webpage. You will find short posts mostly about Probability Theory, Finance and Machine Learning.
