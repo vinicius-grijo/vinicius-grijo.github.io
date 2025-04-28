@@ -12,21 +12,32 @@ Please contact me if you are interested in submiting a talk.
 
 Subscribe to our mailing list by clicking [here]( https://forms.office.com/e/t2vZnDK8Ti ).
 
-# Next Edition: 26th of March, 2025
-- Theme: Actuarial Sciences
+# Next Edition: 30th of April, 2025
+- Theme: Science and Sustainability
 - Brussels Time: from 16:00 to 17:00
 - Brasilia Time: from 12:00 to 13:00
 - Networking: anyone interested in networking is welcomed to arrive 10 minutes before the start and stay after the end of the talks in the meeting room.
 
+### Matheus Oliveira - Universidade Federal do Rio de Janeiro (UFRJ)
+- Title: Streptomyces: Next Gen Bioinoculants Against Plant Diseases
+- Abstract: Brazilian agriculture faces significant losses due to phytopathogenic fungi, terribly affecting crops like sugarcane. Thus, research related to biological control of phytopathogens has been gained prominence in recent decades. Actinobacteria are notable for their metabolic versatility (production of plant hormones, siderophores, enzymes and antibiotics) in biological control. Therefore, offering a wide range of applications and physical-chemical effects, presenting themselves as a promising solution for bioinoculants development.
+
+### Vincent Crabbe - Fonds voor Wetenschappelijk Onderzoek - Vlaanderen (FWO) and Vrije Universiteit Brussel (VUB)
+- Title: Engineering Bacteria to Sense Heavy Metal Pollution
+- Abstract: Mining is a key economic driver in many Latin American countries, including Peru and Brazil. However, it also leads to heavy metal pollution, which poses risks to both the environment and human health. Unfortunately, regular monitoring is often lacking because traditional detection methods are expensive and require specialised expertise. In this presentation, Vincent will explain how engineered bacteria can serve as innovative heavy metal sensors and present findings on an arsenic biosensor developed at VUB.
+
+# Past Editions
+
+## 26th of March, 2025
 ### Marlon Moresco - Universidade Federal do Rio Grande do Sul (UFRGS)
 - Title: Constructing Elicitable Risk Measures
 - Abstract: We provide a constructive way of defining new elicitable risk measures that are characterised by a multiplicative scoring function. We show that depending on the choice of the scoring function’s components, theresulting risk measure possesses properties such as monotonicity, translation invariance, convexity, and positive homogeneity. Our framework encompasses the majority of well-known elicitable risk measures includingall elicitable convex and coherent risk measures. Our setting moreover allows to construct novel elicitablerisk measures that are, for example, convex but not coherent. Furthermore, we discuss how higher-orderelicitability, such as jointly eliciting the mean and variance or different quantile levels, fall within our setting.
+- [Slides]( )
 
 ### Morten Wilke - Vrije Universiteit Brussel (VUB)
 - Title: Optimal Payoffs under Smooth Ambiguity
 - Abstract: We study optimal payoff choice for an investor in a one-period model under smooth ambiguity preferences, also called KMM preferences as proposed by Klibanoff et al. (2005). In contrast to the existing literature on optimal asset allocation for a KMM investor in a one-period model, we also allow payoffs that are non-linear in the market asset. Our contribution is fourfold. First, we characterize and derive the optimal payoff under KMM preferences. Second, we demonstrate that a KMM investor solves an equivalent problem to an investor under classical subjective expected utility (CSEU) with adjusted second-order probabilities. Third, we show that a KMM investor with exponential ambiguity attitude implicitly maximizes CSEU utility under the ‘worst-case’ second-order probabilities determined by his ambiguity aversion. Fourth, we reveal that optimal payoffs under ambiguity are not necessarily monotonically increasing in the market asset, which we illustrate using a log-normal market asset under drift and volatility uncertainty.
-
-# Past Editions
+ - [Slides]( )
 
 ## 26th of February, 2025
 ### Althayr Santos - Universidade Federal do Rio de Janeiro (UFRJ)
