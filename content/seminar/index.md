@@ -15,7 +15,7 @@ Subscribe to our mailing list by clicking [here]( https://forms.office.com/e/t2v
 # Next Edition: 30th of April, 2025
 - Theme: Science and Sustainability
 - Brussels Time: from 16:00 to 17:00
-- Brasilia Time: from 12:00 to 13:00
+- Brasilia Time: from 11:00 to 12:00
 - Networking: anyone interested in networking is welcomed to arrive 10 minutes before the start and stay after the end of the talks in the meeting room.
 
 ### Matheus Oliveira - Universidade Federal do Rio de Janeiro (UFRJ)
