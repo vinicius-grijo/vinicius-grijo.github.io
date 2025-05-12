@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Theory on Vinícius Grijó</title>
-    <link>https://vinicius-grijo.github.io/tags/theory/</link>
+    <link>http://localhost:1313/tags/theory/</link>
     <description>Recent content in Theory on Vinícius Grijó</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 May 2023 09:30:05 -0700</lastBuildDate>
-    <atom:link href="https://vinicius-grijo.github.io/tags/theory/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/theory/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is a Fractional Integral?</title>
-      <link>https://vinicius-grijo.github.io/posts/what_is_a_fractional_integral/</link>
+      <link>http://localhost:1313/posts/what_is_a_fractional_integral/</link>
       <pubDate>Sun, 28 May 2023 09:30:05 -0700</pubDate>
-      <guid>https://vinicius-grijo.github.io/posts/what_is_a_fractional_integral/</guid>
+      <guid>http://localhost:1313/posts/what_is_a_fractional_integral/</guid>
       <description>&lt;h1 id=&#34;hermann-weyl&#34;&gt;Hermann Weyl&lt;/h1&gt;
 &lt;p&gt;Hermann Klaus Hugo Weyl was a german mathematician born in 1885. His doctorate was awarded at the University of Göttingen under the supervision of David Hilbert. Moreover, Weyl was an important member of the Institute for Advanced Study, in Princeton.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://vinicius-grijo.github.io/images/what_is_a_fractional_integral/weyl.jpg&#34; alt=&#34;Hermann Weyl&#34;  /&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/what_is_a_fractional_integral/weyl.jpg&#34; alt=&#34;Hermann Weyl&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;In the paper &lt;em&gt;Bemerkungen zum Begriff des Differentialquotienten gebrochener Ordnung&lt;/em&gt; Weyl introduced the concept of fractional integral. The paper&amp;rsquo;s title can be unofficially and amateurly translated as &lt;em&gt;Notes on the Concept of Fractional Derivative&lt;/em&gt;.&lt;/p&gt;</description>
     </item>

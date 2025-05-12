@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Vinícius Grijó</title>
-    <link>https://vinicius-grijo.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Vinícius Grijó</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 16 Jun 2024 11:47:21 -0300</lastBuildDate>
-    <atom:link href="https://vinicius-grijo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AR Model</title>
-      <link>https://vinicius-grijo.github.io/tags/ar-model/</link>
+      <link>http://localhost:1313/tags/ar-model/</link>
       <pubDate>Sun, 16 Jun 2024 11:47:21 -0300</pubDate>
-      <guid>https://vinicius-grijo.github.io/tags/ar-model/</guid>
+      <guid>http://localhost:1313/tags/ar-model/</guid>
       <description></description>
     </item>
     <item>
       <title>Auto Regressive Model</title>
-      <link>https://vinicius-grijo.github.io/tags/auto-regressive-model/</link>
+      <link>http://localhost:1313/tags/auto-regressive-model/</link>
       <pubDate>Sun, 16 Jun 2024 11:47:21 -0300</pubDate>
-      <guid>https://vinicius-grijo.github.io/tags/auto-regressive-model/</guid>
+      <guid>http://localhost:1313/tags/auto-regressive-model/</guid>
       <description></description>
     </item>
     <item>
       <title>Recurrent Neural Network</title>
-      <link>https://vinicius-grijo.github.io/tags/recurrent-neural-network/</link>
+      <link>http://localhost:1313/tags/recurrent-neural-network/</link>
       <pubDate>Sun, 16 Jun 2024 11:47:21 -0300</pubDate>
-      <guid>https://vinicius-grijo.github.io/tags/recurrent-neural-network/</guid>
+      <guid>http://localhost:1313/tags/recurrent-neural-network/</guid>
       <description></description>
     </item>
     <item>
       <title>RNN</title>
-      <link>https://vinicius-grijo.github.io/tags/rnn/</link>
+      <link>http://localhost:1313/tags/rnn/</link>
       <pubDate>Sun, 16 Jun 2024 11:47:21 -0300</pubDate>
-      <guid>https://vinicius-grijo.github.io/tags/rnn/</guid>
+      <guid>http://localhost:1313/tags/rnn/</guid>
       <description></description>
     </item>
     <item>
       <title>Analysis</title>
-      <link>https://vinicius-grijo.github.io/tags/analysis/</link>
+      <link>http://localhost:1313/tags/analysis/</link>
       <pubDate>Fri, 09 Jun 2023 09:30:05 -0700</pubDate>
-      <guid>https://vinicius-grijo.github.io/tags/analysis/</guid>
+      <guid>http://localhost:1313/tags/analysis/</guid>
       <description></description>
     </item>
     <item>
       <title>Code</title>
-      <link>https://vinicius-grijo.github.io/tags/code/</link>
+      <link>http://localhost:1313/tags/code/</link>
       <pubDate>Fri, 09 Jun 2023 09:30:05 -0700</pubDate>
-      <guid>https://vinicius-grijo.github.io/tags/code/</guid>
+      <guid>http://localhost:1313/tags/code/</guid>
       <description></description>
     </item>
     <item>
       <title>Fractional Integral</title>
-      <link>https://vinicius-grijo.github.io/tags/fractional-integral/</link>
+      <link>http://localhost:1313/tags/fractional-integral/</link>
       <pubDate>Fri, 09 Jun 2023 09:30:05 -0700</pubDate>
-      <guid>https://vinicius-grijo.github.io/tags/fractional-integral/</guid>
+      <guid>http://localhost:1313/tags/fractional-integral/</guid>
       <description></description>
     </item>
     <item>
       <title>Theory</title>
-      <link>https://vinicius-grijo.github.io/tags/theory/</link>
+      <link>http://localhost:1313/tags/theory/</link>
       <pubDate>Sun, 28 May 2023 09:30:05 -0700</pubDate>
-      <guid>https://vinicius-grijo.github.io/tags/theory/</guid>
+      <guid>http://localhost:1313/tags/theory/</guid>
       <description></description>
     </item>
   </channel>

@@ -12,12 +12,23 @@ Please contact me if you are interested in submiting a talk.
 
 Subscribe to our mailing list by clicking [here]( https://forms.office.com/e/t2vZnDK8Ti ).
 
-# Next Edition: 30th of April, 2025
-- Theme: Science and Sustainability
+# Next Edition: 28th of May, 2025
+- Theme: Ergodic Theory and Economic Applications
 - Brussels Time: from 16:00 to 17:00
 - Brasilia Time: from 11:00 to 12:00
 - Networking: anyone interested in networking is welcomed to arrive 10 minutes before the start and stay after the end of the talks in the meeting room.
 
+### Josué Knorst - Universidade Federal do Rio Grande do Sul (UFRGS)
+- Title: Ergodicity, mathematically put
+- Abstract: In mathematics, ergodicity describes a property of a measure with respect to a space transformation. This property is not difficult to attain; indeed, numerous examples can be found in the periodic orbits of a dynamical system. After Birkhoff's theorem, this concept was shown to be equivalent to various other perspectives on a system, ranging from recurrence properties to the convergence of time averages. We will illustrate these features through concrete examples.
+
+### Arne Vanhoyweghen - Vrije Universiteit Brussel (VUB)
+- Title: Ergodicity Economics: A Behavioral and Mathematical Framework
+- Abstract: Ergodicity Economics addresses how averages across time and across a population relate in practical settings. Many systems in economics, finance, and even personal decision-making are often assumed to be ergodic — meaning that an individual's time-averaged outcomes are representative of the average outcomes across a whole population. However, this assumption usually doesn't hold in real-world scenarios. Exploring human decision making from the lens of time averages as opposed to ensemble averages, sheds a new light on widely accepted cognitive peculiarities in human decision making such as loss aversion and status quo bias. In this talk we will discuss how these behaviors follow as a natural consequence of optimizing one’s trajectory over time, and how this insight can help us shape policy design. 
+
+# Past Editions
+
+## 30th of April, 2025
 ### Matheus Oliveira - Universidade Federal do Rio de Janeiro (UFRJ)
 - Title: Streptomyces: Next Gen Bioinoculants Against Plant Diseases
 - Abstract: Brazilian agriculture faces significant losses due to phytopathogenic fungi, terribly affecting crops like sugarcane. Thus, research related to biological control of phytopathogens has been gained prominence in recent decades. Actinobacteria are notable for their metabolic versatility (production of plant hormones, siderophores, enzymes and antibiotics) in biological control. Therefore, offering a wide range of applications and physical-chemical effects, presenting themselves as a promising solution for bioinoculants development.
@@ -26,7 +37,6 @@ Subscribe to our mailing list by clicking [here]( https://forms.office.com/e/t2v
 - Title: Engineering Bacteria to Sense Heavy Metal Pollution
 - Abstract: Mining is a key economic driver in many Latin American countries, including Peru and Brazil. However, it also leads to heavy metal pollution, which poses risks to both the environment and human health. Unfortunately, regular monitoring is often lacking because traditional detection methods are expensive and require specialised expertise. In this presentation, Vincent will explain how engineered bacteria can serve as innovative heavy metal sensors and present findings on an arsenic biosensor developed at VUB.
 
-# Past Editions
 
 ## 26th of March, 2025
 ### Marlon Moresco - Universidade Federal do Rio Grande do Sul (UFRGS)

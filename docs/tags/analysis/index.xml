@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Analysis on Vinícius Grijó</title>
-    <link>https://vinicius-grijo.github.io/tags/analysis/</link>
+    <link>http://localhost:1313/tags/analysis/</link>
     <description>Recent content in Analysis on Vinícius Grijó</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 09 Jun 2023 09:30:05 -0700</lastBuildDate>
-    <atom:link href="https://vinicius-grijo.github.io/tags/analysis/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/analysis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What does a Fractional Integral Look Like?</title>
-      <link>https://vinicius-grijo.github.io/posts/what_does_a_fractional_integral_look_like/</link>
+      <link>http://localhost:1313/posts/what_does_a_fractional_integral_look_like/</link>
       <pubDate>Fri, 09 Jun 2023 09:30:05 -0700</pubDate>
-      <guid>https://vinicius-grijo.github.io/posts/what_does_a_fractional_integral_look_like/</guid>
+      <guid>http://localhost:1313/posts/what_does_a_fractional_integral_look_like/</guid>
       <description>&lt;h1 id=&#34;what-is-a-fractional-integral&#34;&gt;What is a Fractional Integral?&lt;/h1&gt;
-&lt;p&gt;It was shown a previous &lt;a href=&#34;https://vinicius-grijo.github.io/posts/what_is_a_fractional_integral/&#34;&gt;post&lt;/a&gt;   how to define and calculate a function&amp;rsquo;s $\alpha$-th fractional integral, where $\alpha$ is a non-negative real number. Using this technique one can also define a function&amp;rsquo;s $\alpha$-th primitive. Now one will be able to see what such a primitive actually looks like through three examples.&lt;/p&gt;
+&lt;p&gt;It was shown a previous &lt;a href=&#34;http://localhost:1313/posts/what_is_a_fractional_integral/&#34;&gt;post&lt;/a&gt;   how to define and calculate a function&amp;rsquo;s $\alpha$-th fractional integral, where $\alpha$ is a non-negative real number. Using this technique one can also define a function&amp;rsquo;s $\alpha$-th primitive. Now one will be able to see what such a primitive actually looks like through three examples.&lt;/p&gt;
 &lt;p&gt;Recall that the $\alpha$-th primitive of $f_0$ is defined as
 $$
 f_{\alpha}(x) := \frac{1}{\Gamma(\alpha)} \int_0^{x} (x - s)^{\alpha-1} f_0(s) ds.
@@ -22,12 +22,12 @@ $$&lt;/p&gt;</description>
     </item>
     <item>
       <title>What is a Fractional Integral?</title>
-      <link>https://vinicius-grijo.github.io/posts/what_is_a_fractional_integral/</link>
+      <link>http://localhost:1313/posts/what_is_a_fractional_integral/</link>
       <pubDate>Sun, 28 May 2023 09:30:05 -0700</pubDate>
-      <guid>https://vinicius-grijo.github.io/posts/what_is_a_fractional_integral/</guid>
+      <guid>http://localhost:1313/posts/what_is_a_fractional_integral/</guid>
       <description>&lt;h1 id=&#34;hermann-weyl&#34;&gt;Hermann Weyl&lt;/h1&gt;
 &lt;p&gt;Hermann Klaus Hugo Weyl was a german mathematician born in 1885. His doctorate was awarded at the University of Göttingen under the supervision of David Hilbert. Moreover, Weyl was an important member of the Institute for Advanced Study, in Princeton.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://vinicius-grijo.github.io/images/what_is_a_fractional_integral/weyl.jpg&#34; alt=&#34;Hermann Weyl&#34;  /&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/what_is_a_fractional_integral/weyl.jpg&#34; alt=&#34;Hermann Weyl&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;In the paper &lt;em&gt;Bemerkungen zum Begriff des Differentialquotienten gebrochener Ordnung&lt;/em&gt; Weyl introduced the concept of fractional integral. The paper&amp;rsquo;s title can be unofficially and amateurly translated as &lt;em&gt;Notes on the Concept of Fractional Derivative&lt;/em&gt;.&lt;/p&gt;</description>
     </item>

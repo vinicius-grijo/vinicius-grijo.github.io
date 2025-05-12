@@ -2,28 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Vinícius Grijó</title>
-    <link>https://vinicius-grijo.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Vinícius Grijó</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 05 Jan 2025 09:30:05 -0700</lastBuildDate>
-    <atom:link href="https://vinicius-grijo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Belgium-Brazil-Luxembourg Graduate Seminar on Applied Mathematics</title>
-      <link>https://vinicius-grijo.github.io/seminar/</link>
+      <link>http://localhost:1313/seminar/</link>
       <pubDate>Sun, 05 Jan 2025 09:30:05 -0700</pubDate>
-      <guid>https://vinicius-grijo.github.io/seminar/</guid>
+      <guid>http://localhost:1313/seminar/</guid>
       <description>&lt;p&gt;The Belgium-Brazil-Luxembourg Graduate Seminar on Applied Mathematics is a space dedicated to scientific and business collaboration between Belgium, Brazil and Luxembourg. This initiative is sponsored by &lt;a href=&#34;https://www.linkedin.com/company/brascam-chamber-of-commerce/posts/?feedView=all&#34;&gt;Brascam&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Please contact me if you are interested in submiting a talk.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmZkOWY3ZWItZGQyZS00OWNkLTg2MzktNWYwZDg4ZmIxZmNi%40thread.v2/0?context=%7b%22Tid%22%3a%22695b7ca8-2da8-4545-a2da-42d03784e585%22%2c%22Oid%22%3a%228b198694-fdd0-4a8b-ba77-490f6d5a5469%22%7d&#34;&gt;Join the meeting&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Subscribe to our mailing list by clicking &lt;a href=&#34;https://forms.office.com/e/t2vZnDK8Ti&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;h1 id=&#34;next-edition-30th-of-april-2025&#34;&gt;Next Edition: 30th of April, 2025&lt;/h1&gt;
+&lt;h1 id=&#34;next-edition-28th-of-may-2025&#34;&gt;Next Edition: 28th of May, 2025&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;Theme: Science and Sustainability&lt;/li&gt;
+&lt;li&gt;Theme: Ergodic Theory and Economic Applications&lt;/li&gt;
 &lt;li&gt;Brussels Time: from 16:00 to 17:00&lt;/li&gt;
 &lt;li&gt;Brasilia Time: from 11:00 to 12:00&lt;/li&gt;
 &lt;li&gt;Networking: anyone interested in networking is welcomed to arrive 10 minutes before the start and stay after the end of the talks in the meeting room.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h3 id=&#34;josué-knorst---universidade-federal-do-rio-grande-do-sul-ufrgs&#34;&gt;Josué Knorst - Universidade Federal do Rio Grande do Sul (UFRGS)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Title: Ergodicity, mathematically put&lt;/li&gt;
+&lt;li&gt;Abstract: In mathematics, ergodicity describes a property of a measure with respect to a space transformation. This property is not difficult to attain; indeed, numerous examples can be found in the periodic orbits of a dynamical system. After Birkhoff&amp;rsquo;s theorem, this concept was shown to be equivalent to various other perspectives on a system, ranging from recurrence properties to the convergence of time averages. We will illustrate these features through concrete examples.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;arne-vanhoyweghen---vrije-universiteit-brussel-vub&#34;&gt;Arne Vanhoyweghen - Vrije Universiteit Brussel (VUB)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Title: Ergodicity Economics: A Behavioral and Mathematical Framework&lt;/li&gt;
+&lt;li&gt;Abstract: Ergodicity Economics addresses how averages across time and across a population relate in practical settings. Many systems in economics, finance, and even personal decision-making are often assumed to be ergodic — meaning that an individual&amp;rsquo;s time-averaged outcomes are representative of the average outcomes across a whole population. However, this assumption usually doesn&amp;rsquo;t hold in real-world scenarios. Exploring human decision making from the lens of time averages as opposed to ensemble averages, sheds a new light on widely accepted cognitive peculiarities in human decision making such as loss aversion and status quo bias. In this talk we will discuss how these behaviors follow as a natural consequence of optimizing one’s trajectory over time, and how this insight can help us shape policy design.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;past-editions&#34;&gt;Past Editions&lt;/h1&gt;
+&lt;h2 id=&#34;30th-of-april-2025&#34;&gt;30th of April, 2025&lt;/h2&gt;
 &lt;h3 id=&#34;matheus-oliveira---universidade-federal-do-rio-de-janeiro-ufrj&#34;&gt;Matheus Oliveira - Universidade Federal do Rio de Janeiro (UFRJ)&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: Streptomyces: Next Gen Bioinoculants Against Plant Diseases&lt;/li&gt;
@@ -34,7 +46,6 @@
 &lt;li&gt;Title: Engineering Bacteria to Sense Heavy Metal Pollution&lt;/li&gt;
 &lt;li&gt;Abstract: Mining is a key economic driver in many Latin American countries, including Peru and Brazil. However, it also leads to heavy metal pollution, which poses risks to both the environment and human health. Unfortunately, regular monitoring is often lacking because traditional detection methods are expensive and require specialised expertise. In this presentation, Vincent will explain how engineered bacteria can serve as innovative heavy metal sensors and present findings on an arsenic biosensor developed at VUB.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;past-editions&#34;&gt;Past Editions&lt;/h1&gt;
 &lt;h2 id=&#34;26th-of-march-2025&#34;&gt;26th of March, 2025&lt;/h2&gt;
 &lt;h3 id=&#34;marlon-moresco---universidade-federal-do-rio-grande-do-sul-ufrgs&#34;&gt;Marlon Moresco - Universidade Federal do Rio Grande do Sul (UFRGS)&lt;/h3&gt;
 &lt;ul&gt;
@@ -77,9 +88,9 @@
     </item>
     <item>
       <title>How do RNNs Generalize AR-Models?</title>
-      <link>https://vinicius-grijo.github.io/posts/how_do_rnns_generalize_ar_models/</link>
+      <link>http://localhost:1313/posts/how_do_rnns_generalize_ar_models/</link>
       <pubDate>Sun, 16 Jun 2024 11:47:21 -0300</pubDate>
-      <guid>https://vinicius-grijo.github.io/posts/how_do_rnns_generalize_ar_models/</guid>
+      <guid>http://localhost:1313/posts/how_do_rnns_generalize_ar_models/</guid>
       <description>&lt;h1 id=&#34;what-is-an-ar-model&#34;&gt;What is an AR Model?&lt;/h1&gt;
 &lt;p&gt;An Auto Regressive Model, or simply an AR-Model, is a statistical model for time series.&lt;/p&gt;
 &lt;p&gt;The main assumption is that the value in time $t+1$ is a linear combination of the $p$ previous values.&lt;/p&gt;
@@ -88,11 +99,11 @@
     </item>
     <item>
       <title>What does a Fractional Integral Look Like?</title>
-      <link>https://vinicius-grijo.github.io/posts/what_does_a_fractional_integral_look_like/</link>
+      <link>http://localhost:1313/posts/what_does_a_fractional_integral_look_like/</link>
       <pubDate>Fri, 09 Jun 2023 09:30:05 -0700</pubDate>
-      <guid>https://vinicius-grijo.github.io/posts/what_does_a_fractional_integral_look_like/</guid>
+      <guid>http://localhost:1313/posts/what_does_a_fractional_integral_look_like/</guid>
       <description>&lt;h1 id=&#34;what-is-a-fractional-integral&#34;&gt;What is a Fractional Integral?&lt;/h1&gt;
-&lt;p&gt;It was shown a previous &lt;a href=&#34;https://vinicius-grijo.github.io/posts/what_is_a_fractional_integral/&#34;&gt;post&lt;/a&gt;   how to define and calculate a function&amp;rsquo;s $\alpha$-th fractional integral, where $\alpha$ is a non-negative real number. Using this technique one can also define a function&amp;rsquo;s $\alpha$-th primitive. Now one will be able to see what such a primitive actually looks like through three examples.&lt;/p&gt;
+&lt;p&gt;It was shown a previous &lt;a href=&#34;http://localhost:1313/posts/what_is_a_fractional_integral/&#34;&gt;post&lt;/a&gt;   how to define and calculate a function&amp;rsquo;s $\alpha$-th fractional integral, where $\alpha$ is a non-negative real number. Using this technique one can also define a function&amp;rsquo;s $\alpha$-th primitive. Now one will be able to see what such a primitive actually looks like through three examples.&lt;/p&gt;
 &lt;p&gt;Recall that the $\alpha$-th primitive of $f_0$ is defined as
 $$
 f_{\alpha}(x) := \frac{1}{\Gamma(\alpha)} \int_0^{x} (x - s)^{\alpha-1} f_0(s) ds.
@@ -100,9 +111,9 @@ $$&lt;/p&gt;</description>
     </item>
     <item>
       <title>About me</title>
-      <link>https://vinicius-grijo.github.io/aboutme/</link>
+      <link>http://localhost:1313/aboutme/</link>
       <pubDate>Sun, 28 May 2023 09:30:05 -0700</pubDate>
-      <guid>https://vinicius-grijo.github.io/aboutme/</guid>
+      <guid>http://localhost:1313/aboutme/</guid>
       <description>&lt;h2 id=&#34;general-facts&#34;&gt;General Facts&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;I am able to communicate in &lt;strong&gt;Portuguese&lt;/strong&gt;, &lt;strong&gt;Spanish&lt;/strong&gt;, and &lt;strong&gt;English&lt;/strong&gt;.&lt;/li&gt;
@@ -123,19 +134,19 @@ Grade: 9.9 out of 10.0&lt;br&gt;
     </item>
     <item>
       <title>How to contact me?</title>
-      <link>https://vinicius-grijo.github.io/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Sun, 28 May 2023 09:30:05 -0700</pubDate>
-      <guid>https://vinicius-grijo.github.io/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>&lt;p&gt;Feel free to send me an email: vinicius dot grijo at vub dot be&lt;/p&gt;</description>
     </item>
     <item>
       <title>What is a Fractional Integral?</title>
-      <link>https://vinicius-grijo.github.io/posts/what_is_a_fractional_integral/</link>
+      <link>http://localhost:1313/posts/what_is_a_fractional_integral/</link>
       <pubDate>Sun, 28 May 2023 09:30:05 -0700</pubDate>
-      <guid>https://vinicius-grijo.github.io/posts/what_is_a_fractional_integral/</guid>
+      <guid>http://localhost:1313/posts/what_is_a_fractional_integral/</guid>
       <description>&lt;h1 id=&#34;hermann-weyl&#34;&gt;Hermann Weyl&lt;/h1&gt;
 &lt;p&gt;Hermann Klaus Hugo Weyl was a german mathematician born in 1885. His doctorate was awarded at the University of Göttingen under the supervision of David Hilbert. Moreover, Weyl was an important member of the Institute for Advanced Study, in Princeton.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://vinicius-grijo.github.io/images/what_is_a_fractional_integral/weyl.jpg&#34; alt=&#34;Hermann Weyl&#34;  /&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/what_is_a_fractional_integral/weyl.jpg&#34; alt=&#34;Hermann Weyl&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;In the paper &lt;em&gt;Bemerkungen zum Begriff des Differentialquotienten gebrochener Ordnung&lt;/em&gt; Weyl introduced the concept of fractional integral. The paper&amp;rsquo;s title can be unofficially and amateurly translated as &lt;em&gt;Notes on the Concept of Fractional Derivative&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
