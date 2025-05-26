@@ -2,67 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/seminar/</loc>
+    <loc>https://vinicius-grijo.github.io/seminar/</loc>
     <lastmod>2025-01-05T09:30:05-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://vinicius-grijo.github.io/</loc>
     <lastmod>2025-01-05T09:30:05-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/ai/</loc>
+    <loc>https://vinicius-grijo.github.io/categories/ai/</loc>
     <lastmod>2024-06-16T11:47:21-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ar-model/</loc>
+    <loc>https://vinicius-grijo.github.io/tags/ar-model/</loc>
     <lastmod>2024-06-16T11:47:21-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/auto-regressive-model/</loc>
+    <loc>https://vinicius-grijo.github.io/tags/auto-regressive-model/</loc>
     <lastmod>2024-06-16T11:47:21-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://vinicius-grijo.github.io/categories/</loc>
     <lastmod>2024-06-16T11:47:21-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/how_do_rnns_generalize_ar_models/</loc>
+    <loc>https://vinicius-grijo.github.io/posts/how_do_rnns_generalize_ar_models/</loc>
     <lastmod>2024-06-16T11:47:21-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/machine-learning/</loc>
+    <loc>https://vinicius-grijo.github.io/categories/machine-learning/</loc>
     <lastmod>2024-06-16T11:47:21-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://vinicius-grijo.github.io/posts/</loc>
     <lastmod>2024-06-16T11:47:21-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/recurrent-neural-network/</loc>
+    <loc>https://vinicius-grijo.github.io/tags/recurrent-neural-network/</loc>
     <lastmod>2024-06-16T11:47:21-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/rnn/</loc>
+    <loc>https://vinicius-grijo.github.io/tags/rnn/</loc>
     <lastmod>2024-06-16T11:47:21-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://vinicius-grijo.github.io/tags/</loc>
     <lastmod>2024-06-16T11:47:21-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/analysis/</loc>
+    <loc>https://vinicius-grijo.github.io/categories/analysis/</loc>
     <lastmod>2023-06-09T09:30:05-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/analysis/</loc>
+    <loc>https://vinicius-grijo.github.io/tags/analysis/</loc>
     <lastmod>2023-06-09T09:30:05-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/code/</loc>
+    <loc>https://vinicius-grijo.github.io/tags/code/</loc>
     <lastmod>2023-06-09T09:30:05-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/fractional-integral/</loc>
+    <loc>https://vinicius-grijo.github.io/tags/fractional-integral/</loc>
     <lastmod>2023-06-09T09:30:05-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/what_does_a_fractional_integral_look_like/</loc>
+    <loc>https://vinicius-grijo.github.io/posts/what_does_a_fractional_integral_look_like/</loc>
     <lastmod>2023-06-09T09:30:05-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/aboutme/</loc>
+    <loc>https://vinicius-grijo.github.io/aboutme/</loc>
     <lastmod>2023-05-28T09:30:05-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://vinicius-grijo.github.io/contact/</loc>
     <lastmod>2023-05-28T09:30:05-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/theory/</loc>
+    <loc>https://vinicius-grijo.github.io/tags/theory/</loc>
     <lastmod>2023-05-28T09:30:05-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/what_is_a_fractional_integral/</loc>
+    <loc>https://vinicius-grijo.github.io/posts/what_is_a_fractional_integral/</loc>
     <lastmod>2023-05-28T09:30:05-07:00</lastmod>
   </url>
 </urlset>
