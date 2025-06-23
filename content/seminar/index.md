@@ -12,12 +12,22 @@ Please contact me if you are interested in submiting a talk.
 
 Subscribe to our mailing list by clicking [here]( https://forms.office.com/e/t2vZnDK8Ti ).
 
-# Next Edition: 28th of May, 2025
-- Theme: Ergodic Theory and Economic Applications
+# Next Edition: 25th of June, 2025
+- Theme: Artificial Intelligence and Machine Learning
 - Brussels Time: from 16:00 to 17:00
 - Brasilia Time: from 11:00 to 12:00
 - Networking: anyone interested in networking is welcomed to arrive 10 minutes before the start and stay after the end of the talks in the meeting room.
 
+### Karolayne Dessabato - Universidade Federal do Rio de Janeiro (UFRJ)
+- Title: Explainable Machine Learning in Music Emotion Recognition Using Shapley Values
+- Abstract: Music Emotion Recognition (MER), an area within Musical Information Retrieval (MIR), studies the emotions evoked in listeners by music. We address MER as a regression task, with the objective of predicting the emotional content of music (encoded in arousal and valence) from acoustic features extracted from the waveform. We apply an interpretable machine learning technique, investigating the role of these features in predicting the target variables. Initially, a random forest model is trained on the DEAM dataset (MediaEval Database for Emotional Analysis of Music). Then, we use the concept of Shapley values to interpret the role of each variable in the predictions made by this model. Finally, we extract the most significant features from the DEAM dataset to predict arousal and valence, thus enhancing the interpretability of the model employed.
+
+### Luís Espírito Santo - Universidade de Coimbra (UC) and Vrije Universiteit Brussel (VUB)
+- Title: Introduction to Creativity Creativity and Steps Towards a Formal Creativity Theory
+- Abstract: The growing influence of generative AI has reignited interest in how artificial systems engage with creative tasks, often centering discussions around large language models and their impact on human creativity. Yet, the field of Computational Creativity—active since the 1990s—offers alternative perspectives that can help reframe these debates. In this talk, we revisit some of these foundational ideas and explore a recent proposal that tries to pave the way for a Formal Creativity Theory as a new direction that draws on Formal Learning Theory to better understand creativity.
+
+# Past Editions
+## 28th of May, 2025
 ### Josué Knorst - Universidade Federal do Rio Grande do Sul (UFRGS)
 - Title: Ergodicity, mathematically put
 - Abstract: In mathematics, ergodicity describes a property of a measure with respect to a space transformation. This property is not difficult to attain; indeed, numerous examples can be found in the periodic orbits of a dynamical system. After Birkhoff's theorem, this concept was shown to be equivalent to various other perspectives on a system, ranging from recurrence properties to the convergence of time averages. We will illustrate these features through concrete examples.
@@ -25,8 +35,6 @@ Subscribe to our mailing list by clicking [here]( https://forms.office.com/e/t2v
 ### Arne Vanhoyweghen - Vrije Universiteit Brussel (VUB)
 - Title: Ergodicity Economics: A Behavioral and Mathematical Framework
 - Abstract: Ergodicity Economics addresses how averages across time and across a population relate in practical settings. Many systems in economics, finance, and even personal decision-making are often assumed to be ergodic — meaning that an individual's time-averaged outcomes are representative of the average outcomes across a whole population. However, this assumption usually doesn't hold in real-world scenarios. Exploring human decision making from the lens of time averages as opposed to ensemble averages, sheds a new light on widely accepted cognitive peculiarities in human decision making such as loss aversion and status quo bias. In this talk we will discuss how these behaviors follow as a natural consequence of optimizing one’s trajectory over time, and how this insight can help us shape policy design. 
-
-# Past Editions
 
 ## 30th of April, 2025
 ### Matheus Oliveira - Universidade Federal do Rio de Janeiro (UFRJ)
